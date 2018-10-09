@@ -1,0 +1,2 @@
+This is our second file.
+We are testing staging
